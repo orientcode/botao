@@ -8,4 +8,4 @@ Nessa aula você vai entender sobre o fracionamento dos botões e também como p
 
 # Guia de montagem do circuito:
 
-![Buzzer](https://raw.githubusercontent.com/orientcode/botao/master/botão.png)
+![Botão](https://raw.githubusercontent.com/orientcode/botao/master/botão.png)
