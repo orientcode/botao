@@ -1,6 +1,4 @@
-# Botão
-
-Como funciona um botão?
+# Como funciona um botão?
  
 Você sabe como funciona um botão? 
 
